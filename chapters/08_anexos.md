@@ -1,7 +1,9 @@
 # Anexos
 
 ## AnexosI. Repositorio de Github
-https://github.com/porvik/analisis-clinica-genomica-fenilcetonuria
+Github code: https://github.com/porvik/analisis-clinica-genomica-fenilcetonuria
+
+Github pages: https://porvik.github.io/analisis-clinica-genomica-fenilcetonuria/
 
 ## Anexo II. Descarga de datasets iniciales
 Los datos de secuenciación utilizados en este trabajo proceden de repositorios públicos.
