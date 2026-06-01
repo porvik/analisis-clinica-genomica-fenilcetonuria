@@ -1,0 +1,6 @@
+CHROM,POS,REF,ALT,SYMBOL,IMPACT,Consequence,HGVSc,HGVSp,Existing_variation,ClinVar_CLNSIG,ClinVar_CLNDN,ClinVar_CLNREVSTAT,ClinVar_CLNHGVS,Final_score,Final_priority,Final_priority_reasons
+chr12,103237428,CTTTCTC,CTTCTC,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1179del,ENSP00000303500.2:p.Val394Ter,,,,,,8,High,HIGH impact; severe functional consequence
+chr12,103245500,AGGGCA,AGGCA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.861del,ENSP00000303500.2:p.Leu288CysfsTer48,CM1511444,,,,,8,High,HIGH impact; severe functional consequence
+chr12,103246657,AGGCC,AGCC,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.762del,ENSP00000303500.2:p.Phe255SerfsTer81,CM910286,,,,,8,High,HIGH impact; severe functional consequence
+chr12,103271350,G,A,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.338-22C>T,,rs2037639,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103271350G>A,-2,Low,ClinVar benign; intronic candidate
+chr12,103311006,AGGGAGG,AGGAGG,PAH,LOW,splice_region_variant&splice_polypyrimidine_tract_variant&intron_variant&non_coding_transcript_variant,ENST00000546708.1:n.493-4del,,,,,,,4,Medium,LOW impact; splice region; intronic candidate

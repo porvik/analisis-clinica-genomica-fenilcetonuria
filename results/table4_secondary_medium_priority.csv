@@ -1,0 +1,2 @@
+Caller,CHROM,POS,REF,ALT,IMPACT,Consequence,HGVSc,HGVSp,ClinVar_CLNSIG,ClinVar_CLNDN,Final_score,Final_priority
+VarScan,chr12,103232956,C,CT,MODERATE,inframe_insertion&stop_retained_variant,ENST00000307000.2:c.1340dup,,Pathogenic/Likely_pathogenic,not_provided&Phenylketonuria,7,Medium

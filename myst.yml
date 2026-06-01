@@ -1,0 +1,40 @@
+version: 1
+
+project:
+  title: Análisis clínico genómico de fenilcetonuria
+  subtitle: Bases de Datos y Recursos Bioinformáticos
+  authors:
+    - name: Viktor Porvaznik, UNIR
+  bibliography:
+    - references.bib
+
+  numbering:
+    title: true
+    headings: true
+  keywords:
+    - Fenilcetonuria
+    - Hiperfenilalaninemia
+    - PKU
+    - PAH
+    - variantes genéticas
+    - ENA
+    - Galaxy
+    - VCF
+    - SnpEff
+    - Ensembl VEP
+  toc:
+    - file: index.md
+    - file: chapters/01_introduccion.md
+    - file: chapters/02_objetivos.md
+    - file: chapters/03_materiales_metodos.md
+    - file: chapters/04_resultados.md
+    - file: chapters/05_discusion.md
+    - file: chapters/06_conclusiones.md
+    - file: chapters/08_anexos.md
+
+site:
+  template: book-theme
+  title: Análisis clínico genómico de fenilcetonuria
+  options:
+    logo_text: Análisis clínico genómico
+    numbered_references: true

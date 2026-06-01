@@ -1,0 +1,334 @@
+CHROM,POS,REF,ALT,SYMBOL,IMPACT,Consequence,HGVSc,HGVSp,Existing_variation,ClinVar_CLNSIG,ClinVar_CLNDN,ClinVar_CLNREVSTAT,ClinVar_CLNHGVS,Final_score,Final_priority_reasons,Final_priority
+chr12,103234255,C,G,PAH,MODERATE,missense_variant,ENST00000307000.2:c.1223G>C,ENSP00000303500.2:p.Arg408Pro,rs79931499&CM920563&COSV61015579,Pathogenic,not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103234255C>G,10,ClinVar pathogenic; MODERATE impact; missense,High
+chr12,103234255,C,G,PAH,MODERATE,missense_variant,ENST00000553106.1:c.1238G>C,ENSP00000448059.1:p.Arg413Pro,rs79931499&CM920563&COSV61015579,Pathogenic,not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103234255C>G,10,ClinVar pathogenic; MODERATE impact; missense,High
+chr12,103246707,C,T,PAH,MODERATE,missense_variant,ENST00000307000.2:c.713G>A,ENSP00000303500.2:p.Arg238Gln,rs62508588&CM910283&CM993955,Pathogenic/Likely_pathogenic,PAH-related_disorder&Inborn_genetic_diseases&not_provided&Phenylketonuria,criteria_provided&_multiple_submitters&_no_conflicts,NC_000012.11:g.103246707C>T,9,ClinVar likely pathogenic; MODERATE impact; missense,High
+chr12,103246707,C,T,PAH,MODERATE,missense_variant,ENST00000553106.1:c.728G>A,ENSP00000448059.1:p.Arg243Gln,rs62508588&CM910283&CM993955,Pathogenic/Likely_pathogenic,PAH-related_disorder&Inborn_genetic_diseases&not_provided&Phenylketonuria,criteria_provided&_multiple_submitters&_no_conflicts,NC_000012.11:g.103246707C>T,9,ClinVar likely pathogenic; MODERATE impact; missense,High
+chr12,103232956,CTTTATT,CTTATT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1340del,ENSP00000303500.2:p.Lys447SerfsTer33,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103232956,CTTTATT,CTTATT,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.1355del,ENSP00000448059.1:p.Lys452SerfsTer33,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234192,GCCAAAATC,"GCAAAATC,GCCAAATC",PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1285del,ENSP00000303500.2:p.Ala429LeufsTer18,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234192,GCCAAAATC,"GCAAAATC,GCCAAATC",PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1283del,ENSP00000303500.2:p.Leu428TrpfsTer19,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234192,GCCAAAATC,"GCAAAATC,GCCAAATC",PAH,HIGH,frameshift_variant,ENST00000553106.1:c.1300del,ENSP00000448059.1:p.Ala434LeufsTer18,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234192,GCCAAAATC,"GCAAAATC,GCCAAATC",PAH,HIGH,frameshift_variant,ENST00000553106.1:c.1298del,ENSP00000448059.1:p.Leu433TrpfsTer19,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234237,TGGGTGT,TGGTGT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1240del,ENSP00000303500.2:p.Gln414LysfsTer33,CM043046,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234237,TGGGTGT,TGGTGT,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.1255del,ENSP00000448059.1:p.Gln419LysfsTer33,CM043046,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234265,AGGGCCG,AGGCCG,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1212del,ENSP00000303500.2:p.Phe405SerfsTer42,COSV61018455,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234265,AGGGCCG,AGGCCG,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.1227del,ENSP00000448059.1:p.Phe410SerfsTer42,COSV61018455,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234286,CAAAGT,CAAGT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1191del,ENSP00000303500.2:p.Phe397LeufsTer50,CM030921&CM112744,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234286,CAAAGT,CAAGT,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.1206del,ENSP00000448059.1:p.Phe402LeufsTer50,CM030921&CM112744,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103237428,CTTTCTC,CTTCTC,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1179del,ENSP00000303500.2:p.Val394Ter,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103237428,CTTTCTC,CTTCTC,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.1194del,ENSP00000448059.1:p.Val399Ter,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103237495,ATTTTGGA,ATTTGGA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1112del,ENSP00000303500.2:p.Asn371IlefsTer24,CM115175,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103237495,ATTTTGGA,ATTTGGA,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.1127del,ENSP00000448059.1:p.Asn376IlefsTer24,CM115175,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103238125,CAAAGGA,CAAGGA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1038del,ENSP00000303500.2:p.Phe346LeufsTer49,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103238125,CAAAGGA,CAAGGA,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.1053del,ENSP00000448059.1:p.Phe351LeufsTer49,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103238140,GCCCAG,GCCAG,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1023del,ENSP00000303500.2:p.Leu342SerfsTer53,CM056675&CM991000,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103238140,GCCCAG,GCCAG,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.1038del,ENSP00000448059.1:p.Leu347SerfsTer53,CM056675&CM991000,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103238154,GCCTT,GCTT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1009del,ENSP00000303500.2:p.Ala337HisfsTer58,rs63581460,pathogenic,,,,8,HIGH impact; severe functional consequence,High
+chr12,103238154,GCCTT,GCTT,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.1024del,ENSP00000448059.1:p.Ala342HisfsTer58,rs63581460,pathogenic,,,,8,HIGH impact; severe functional consequence,High
+chr12,103240682,CTTTTCA,CTTTCA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.944del,ENSP00000303500.2:p.Lys315SerfsTer21,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103240682,CTTTTCA,CTTTCA,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.959del,ENSP00000448059.1:p.Lys320SerfsTer21,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103245500,AGGGCA,AGGCA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.861del,ENSP00000303500.2:p.Leu288CysfsTer48,CM1511444,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103245500,AGGGCA,AGGCA,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.876del,ENSP00000448059.1:p.Leu293CysfsTer48,CM1511444,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103246609,TGGGCT,TGGGGCT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.810dup,ENSP00000303500.2:p.Met271HisfsTer7,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103246609,TGGGCT,TGGGGCT,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.825dup,ENSP00000448059.1:p.Met276HisfsTer7,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103246657,AGGCC,AGCC,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.762del,ENSP00000303500.2:p.Phe255SerfsTer81,CM910286,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103246657,AGGCC,AGCC,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.777del,ENSP00000448059.1:p.Phe260SerfsTer81,CM910286,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103246664,GCCACC,GCACC,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.755del,ENSP00000303500.2:p.Gly252AlafsTer84,CM010967&CM010968,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103246664,GCCACC,GCACC,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.770del,ENSP00000448059.1:p.Gly257AlafsTer84,CM010967&CM010968,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103246673,GAAATC,GAATC,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.746del,ENSP00000303500.2:p.Phe249SerfsTer87,COSV61015347,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103246673,GAAATC,GAATC,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.761del,ENSP00000448059.1:p.Phe254SerfsTer87,COSV61015347,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103248975,CTTTTCA,CTTTCA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.629del,ENSP00000303500.2:p.Lys210SerfsTer126,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103248975,CTTTTCA,CTTTCA,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.644del,ENSP00000448059.1:p.Lys215SerfsTer126,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103248989,GAAAAATG,GAAAATG,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.615del,ENSP00000303500.2:p.Pro206HisfsTer130,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103248989,GAAAAATG,GAAAATG,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.630del,ENSP00000448059.1:p.Pro211HisfsTer130,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103249021,GTTTTATA,GTTTATA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.583del,ENSP00000303500.2:p.Thr195ProfsTer141,COSV61020947,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103249021,GTTTTATA,GTTTATA,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.598del,ENSP00000448059.1:p.Thr200ProfsTer141,COSV61020947,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103249056,GCCCCAT,GCCCAT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.548del,ENSP00000303500.2:p.Gly183AlafsTer7,CM086622&COSV100187611,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103249056,GCCCCAT,GCCCAT,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.563del,ENSP00000448059.1:p.Gly188AlafsTer7,CM086622&COSV100187611,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103249078,TCCAT,TCAT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.526del,ENSP00000303500.2:p.Glu176ArgfsTer14,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103249078,TCCAT,TCAT,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.541del,ENSP00000448059.1:p.Glu181ArgfsTer14,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103249100,TGGGCT,TGGCT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.504del,ENSP00000303500.2:p.Ile169SerfsTer21,CM920546,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103249100,TGGGCT,TGGCT,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.519del,ENSP00000448059.1:p.Ile174SerfsTer21,CM920546,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103271240,AGGGTGG,AGGTGG,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.425del,ENSP00000303500.2:p.Pro142LeufsTer48,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103271240,AGGGTGG,AGGTGG,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.440del,ENSP00000448059.1:p.Pro147LeufsTer48,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103288616,CAAATG,CAATG,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.233del,ENSP00000303500.2:p.Leu78TrpfsTer9,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103288616,CAAATG,CAATG,PAH,HIGH,frameshift_variant,ENST00000546844.1:c.248del,ENSP00000446658.1:p.Leu83TrpfsTer9,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103288616,CAAATG,CAATG,PAH,HIGH,frameshift_variant,ENST00000551337.1:c.248del,ENSP00000447620.1:p.Leu83TrpfsTer9,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103288616,CAAATG,CAATG,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.248del,ENSP00000448059.1:p.Leu83TrpfsTer9,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103288625,GAAAAATTC,GAAAATTC,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.224del,ENSP00000303500.2:p.Phe75SerfsTer12,CD113434,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103288625,GAAAAATTC,GAAAATTC,PAH,HIGH,frameshift_variant,ENST00000546844.1:c.239del,ENSP00000446658.1:p.Phe80SerfsTer12,CD113434,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103288625,GAAAAATTC,GAAAATTC,PAH,HIGH,frameshift_variant,ENST00000551337.1:c.239del,ENSP00000447620.1:p.Phe80SerfsTer12,CD113434,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103288625,GAAAAATTC,GAAAATTC,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.239del,ENSP00000448059.1:p.Phe80SerfsTer12,CD113434,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103306641,ATTTTGA,ATTTGA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.80del,ENSP00000303500.2:p.Asn27MetfsTer6,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103306641,ATTTTGA,ATTTGA,PAH,HIGH,frameshift_variant,ENST00000546844.1:c.95del,ENSP00000446658.1:p.Asn32MetfsTer6,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103306641,ATTTTGA,ATTTGA,PAH,HIGH,frameshift_variant,ENST00000551337.1:c.95del,ENSP00000447620.1:p.Asn32MetfsTer6,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103306641,ATTTTGA,ATTTGA,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.95del,ENSP00000448059.1:p.Asn32MetfsTer6,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103310854,CAAAGT,CAAGT,PAH,HIGH,frameshift_variant,ENST00000546844.1:c.54del,ENSP00000446658.1:p.Phe18LeufsTer20,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103310854,CAAAGT,CAAGT,PAH,HIGH,frameshift_variant,ENST00000551337.1:c.54del,ENSP00000447620.1:p.Phe18LeufsTer20,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103310854,CAAAGT,CAAGT,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.54del,ENSP00000448059.1:p.Phe18LeufsTer20,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103310895,ACCGCA,ACGCA,PAH,HIGH,frameshift_variant,ENST00000546844.1:c.13del,ENSP00000446658.1:p.Val5SerfsTer33,rs1592991243&COSV100187889,pathogenic,,,,8,HIGH impact; severe functional consequence,High
+chr12,103310895,ACCGCA,ACGCA,PAH,HIGH,frameshift_variant,ENST00000551337.1:c.13del,ENSP00000447620.1:p.Val5SerfsTer33,rs1592991243&COSV100187889,pathogenic,,,,8,HIGH impact; severe functional consequence,High
+chr12,103310895,ACCGCA,ACGCA,PAH,HIGH,frameshift_variant,ENST00000553106.1:c.13del,ENSP00000448059.1:p.Val5SerfsTer33,rs1592991243&COSV100187889,pathogenic,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234255,C,G,PAH,MODIFIER,downstream_gene_variant,,,rs79931499&CM920563&COSV61015579,Pathogenic,not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103234255C>G,5,ClinVar pathogenic,Medium
+chr12,103234255,C,G,PAH,MODIFIER,downstream_gene_variant,,,rs79931499&CM920563&COSV61015579,Pathogenic,not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103234255C>G,5,ClinVar pathogenic,Medium
+chr12,103246707,C,T,PAH,MODIFIER,downstream_gene_variant,,,rs62508588&CM910283&CM993955,Pathogenic/Likely_pathogenic,PAH-related_disorder&Inborn_genetic_diseases&not_provided&Phenylketonuria,criteria_provided&_multiple_submitters&_no_conflicts,NC_000012.11:g.103246707C>T,4,ClinVar likely pathogenic,Medium
+chr12,103246707,C,T,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.487G>A,,rs62508588&CM910283&CM993955,Pathogenic/Likely_pathogenic,PAH-related_disorder&Inborn_genetic_diseases&not_provided&Phenylketonuria,criteria_provided&_multiple_submitters&_no_conflicts,NC_000012.11:g.103246707C>T,4,ClinVar likely pathogenic,Medium
+chr12,103246707,C,T,PAH,MODIFIER,upstream_gene_variant,,,rs62508588&CM910283&CM993955,Pathogenic/Likely_pathogenic,PAH-related_disorder&Inborn_genetic_diseases&not_provided&Phenylketonuria,criteria_provided&_multiple_submitters&_no_conflicts,NC_000012.11:g.103246707C>T,4,ClinVar likely pathogenic,Medium
+chr12,103246707,C,T,PAH,MODIFIER,downstream_gene_variant,,,rs62508588&CM910283&CM993955,Pathogenic/Likely_pathogenic,PAH-related_disorder&Inborn_genetic_diseases&not_provided&Phenylketonuria,criteria_provided&_multiple_submitters&_no_conflicts,NC_000012.11:g.103246707C>T,4,ClinVar likely pathogenic,Medium
+chr12,103248905,TGGAC,TGAC,PAH,LOW,splice_region_variant&intron_variant,ENST00000307000.2:c.691+8del,,,,,,,4,LOW impact; splice region; intronic candidate,Medium
+chr12,103248905,TGGAC,TGAC,PAH,LOW,splice_region_variant&intron_variant,ENST00000553106.1:c.706+8del,,,,,,,4,LOW impact; splice region; intronic candidate,Medium
+chr12,103311006,AGGGAGG,AGGAGG,PAH,LOW,splice_region_variant&splice_polypyrimidine_tract_variant&intron_variant&non_coding_transcript_variant,ENST00000546708.1:n.493-4del,,,,,,,4,LOW impact; splice region; intronic candidate,Medium
+chr12,103311006,AGGGAGG,AGGAGG,PAH,LOW,splice_region_variant&splice_polypyrimidine_tract_variant&intron_variant,ENST00000546844.1:c.-95-4del,,,,,,,4,LOW impact; splice region; intronic candidate,Medium
+chr12,103311006,AGGGAGG,AGGAGG,PAH,LOW,splice_region_variant&splice_polypyrimidine_tract_variant&intron_variant&non_coding_transcript_variant,ENST00000547319.1:n.217-4del,,,,,,,4,LOW impact; splice region; intronic candidate,Medium
+chr12,103311006,AGGGAGG,AGGAGG,PAH,LOW,splice_region_variant&splice_polypyrimidine_tract_variant&intron_variant,ENST00000551337.1:c.-95-4del,,,,,,,4,LOW impact; splice region; intronic candidate,Medium
+chr12,103233004,GAAAAACAC,GAAAACAC,PAH,LOW,splice_polypyrimidine_tract_variant&intron_variant,ENST00000307000.2:c.1301-9del,,,,,,,2,LOW impact; intronic candidate,Low
+chr12,103233004,GAAAAACAC,GAAAACAC,PAH,LOW,splice_polypyrimidine_tract_variant&intron_variant,ENST00000553106.1:c.1316-9del,,,,,,,2,LOW impact; intronic candidate,Low
+chr12,103238218,GAAAGT,GAAGT,PAH,LOW,splice_polypyrimidine_tract_variant&intron_variant,ENST00000307000.2:c.955-10del,,,,,,,2,LOW impact; intronic candidate,Low
+chr12,103238218,GAAAGT,GAAGT,PAH,LOW,splice_polypyrimidine_tract_variant&intron_variant&non_coding_transcript_variant,ENST00000549247.1:n.729-10del,,,,,,,2,LOW impact; intronic candidate,Low
+chr12,103238218,GAAAGT,GAAGT,PAH,LOW,splice_polypyrimidine_tract_variant&intron_variant&non_coding_transcript_variant,ENST00000551114.1:n.632-10del,,,,,,,2,LOW impact; intronic candidate,Low
+chr12,103238218,GAAAGT,GAAGT,PAH,LOW,splice_polypyrimidine_tract_variant&intron_variant,ENST00000553106.1:c.970-10del,,,,,,,2,LOW impact; intronic candidate,Low
+chr12,103246736,GAAAAGAA,GAAAGAA,PAH,LOW,splice_polypyrimidine_tract_variant&intron_variant,ENST00000307000.2:c.692-9del,,,,,,,2,LOW impact; intronic candidate,Low
+chr12,103246736,GAAAAGAA,GAAAGAA,PAH,LOW,splice_polypyrimidine_tract_variant&intron_variant,ENST00000553106.1:c.707-9del,,,,,,,2,LOW impact; intronic candidate,Low
+chr12,103233016,CAAAATGGGCCA,"CAAATGGGCCA,CAAAATGGGGCCA",PAH,MODIFIER,intron_variant,ENST00000307000.2:c.1301-21del,,,,,,,1,intronic candidate,Low
+chr12,103233016,CAAAATGGGCCA,"CAAATGGGCCA,CAAAATGGGGCCA",PAH,MODIFIER,intron_variant,ENST00000307000.2:c.1301-26_1301-25insC,,,,,,,1,intronic candidate,Low
+chr12,103233016,CAAAATGGGCCA,"CAAATGGGCCA,CAAAATGGGGCCA",PAH,MODIFIER,intron_variant,ENST00000553106.1:c.1316-21del,,,,,,,1,intronic candidate,Low
+chr12,103233016,CAAAATGGGCCA,"CAAATGGGCCA,CAAAATGGGGCCA",PAH,MODIFIER,intron_variant,ENST00000553106.1:c.1316-26_1316-25insC,,,,,,,1,intronic candidate,Low
+chr12,103234153,GCCTCG,GCTCG,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.1300+24del,,,,,,,1,intronic candidate,Low
+chr12,103234153,GCCTCG,GCTCG,PAH,MODIFIER,intron_variant,ENST00000553106.1:c.1315+24del,,,,,,,1,intronic candidate,Low
+chr12,103237573,GAAAAGT,GAAAGT,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.1051-17del,,,,,,,1,intronic candidate,Low
+chr12,103237573,GAAAAGT,GAAAGT,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000549247.1:n.825-17del,,,,,,,1,intronic candidate,Low
+chr12,103237573,GAAAAGT,GAAAGT,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000551114.1:n.728-17del,,,,,,,1,intronic candidate,Low
+chr12,103237573,GAAAAGT,GAAAGT,PAH,MODIFIER,intron_variant,ENST00000553106.1:c.1066-17del,,,,,,,1,intronic candidate,Low
+chr12,103238103,GAAGG,GAGG,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.1050+10del,,,,,,,1,intronic candidate,Low
+chr12,103238103,GAAGG,GAGG,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000549247.1:n.824+10del,,,,,,,1,intronic candidate,Low
+chr12,103238103,GAAGG,GAGG,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000551114.1:n.727+10del,,,,,,,1,intronic candidate,Low
+chr12,103238103,GAAGG,GAGG,PAH,MODIFIER,intron_variant,ENST00000553106.1:c.1065+10del,,,,,,,1,intronic candidate,Low
+chr12,103240648,CCACCCAG,"CACCAG,CCACCAG",PAH,MODIFIER,intron_variant,ENST00000307000.2:c.954+22_954+24delinsT,,,,,,,1,intronic candidate,Low
+chr12,103240648,CCACCCAG,"CACCAG,CCACCAG",PAH,MODIFIER,intron_variant,ENST00000307000.2:c.954+22del,,,,,,,1,intronic candidate,Low
+chr12,103240648,CCACCCAG,"CACCAG,CCACCAG",PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000549247.1:n.728+22_728+24delinsT,,,,,,,1,intronic candidate,Low
+chr12,103240648,CCACCCAG,"CACCAG,CCACCAG",PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000549247.1:n.728+22del,,,,,,,1,intronic candidate,Low
+chr12,103240648,CCACCCAG,"CACCAG,CCACCAG",PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000551114.1:n.631+22_631+24delinsT,,,,,,,1,intronic candidate,Low
+chr12,103240648,CCACCCAG,"CACCAG,CCACCAG",PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000551114.1:n.631+22del,,,,,,,1,intronic candidate,Low
+chr12,103240648,CCACCCAG,"CACCAG,CCACCAG",PAH,MODIFIER,intron_variant,ENST00000553106.1:c.969+22_969+24delinsT,,,,,,,1,intronic candidate,Low
+chr12,103240648,CCACCCAG,"CACCAG,CCACCAG",PAH,MODIFIER,intron_variant,ENST00000553106.1:c.969+22del,,,,,,,1,intronic candidate,Low
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,intron_variant,ENST00000307000.2:c.897+18del,,,,,,,1,intronic candidate,Low
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000549247.1:n.671+18del,,,,,,,1,intronic candidate,Low
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000551114.1:n.574+18del,,,,,,,1,intronic candidate,Low
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,intron_variant,ENST00000553106.1:c.912+18del,,,,,,,1,intronic candidate,Low
+chr12,103245564,AGGGGAGG,AGGGAGG,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.828-31del,,,,,,,1,intronic candidate,Low
+chr12,103245564,AGGGGAGG,AGGGAGG,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000549247.1:n.602-31del,,,,,,,1,intronic candidate,Low
+chr12,103245564,AGGGGAGG,AGGGAGG,PAH,MODIFIER,intron_variant,ENST00000553106.1:c.843-31del,,,,,,,1,intronic candidate,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,intron_variant,ENST00000307000.2:c.691+17del,,,,,,,1,intronic candidate,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,intron_variant,ENST00000307000.2:c.691+16_691+17del,,,,,,,1,intronic candidate,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,intron_variant,ENST00000553106.1:c.706+17del,,,,,,,1,intronic candidate,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,intron_variant,ENST00000553106.1:c.706+16_706+17del,,,,,,,1,intronic candidate,Low
+chr12,103260463,ATTTTTCA,ATTTTCA,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.427-23del,,COSV100188393,,,,,1,intronic candidate,Low
+chr12,103260463,ATTTTTCA,ATTTTCA,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000549111.1:n.538-23del,,COSV100188393,,,,,1,intronic candidate,Low
+chr12,103260463,ATTTTTCA,ATTTTCA,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000551988.1:n.530+10776del,,COSV100188393,,,,,1,intronic candidate,Low
+chr12,103260463,ATTTTTCA,ATTTTCA,PAH,MODIFIER,intron_variant,ENST00000553106.1:c.442-23del,,COSV100188393,,,,,1,intronic candidate,Low
+chr12,103288492,CAAAATTC,CAAATTC,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.337+20del,,,,,,,1,intronic candidate,Low
+chr12,103288492,CAAAATTC,CAAATTC,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000548928.1:n.274+20del,,,,,,,1,intronic candidate,Low
+chr12,103288492,CAAAATTC,CAAATTC,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000549111.1:n.448+20del,,,,,,,1,intronic candidate,Low
+chr12,103288492,CAAAATTC,CAAATTC,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000550978.1:n.336+20del,,,,,,,1,intronic candidate,Low
+chr12,103288492,CAAAATTC,CAAATTC,PAH,MODIFIER,intron_variant,ENST00000551337.1:c.352+20del,,,,,,,1,intronic candidate,Low
+chr12,103288492,CAAAATTC,CAAATTC,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000551988.1:n.441+20del,,,,,,,1,intronic candidate,Low
+chr12,103288492,CAAAATTC,CAAATTC,PAH,MODIFIER,intron_variant,ENST00000553106.1:c.352+20del,,,,,,,1,intronic candidate,Low
+chr12,103311025,CAAAGGG,CAAGGG,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000546708.1:n.493-23del,,,,,,,1,intronic candidate,Low
+chr12,103311025,CAAAGGG,CAAGGG,PAH,MODIFIER,intron_variant,ENST00000546844.1:c.-95-23del,,,,,,,1,intronic candidate,Low
+chr12,103311025,CAAAGGG,CAAGGG,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000547319.1:n.217-23del,,,,,,,1,intronic candidate,Low
+chr12,103311025,CAAAGGG,CAAGGG,PAH,MODIFIER,intron_variant,ENST00000551337.1:c.-95-23del,,,,,,,1,intronic candidate,Low
+chr12,103311362,GCCCCCCTTA,GCCCCCTTA,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000546708.1:n.493-360del,,,,,,,1,intronic candidate,Low
+chr12,103311362,GCCCCCCTTA,GCCCCCTTA,PAH,MODIFIER,intron_variant,ENST00000546844.1:c.-95-360del,,,,,,,1,intronic candidate,Low
+chr12,103311362,GCCCCCCTTA,GCCCCCTTA,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000547319.1:n.217-360del,,,,,,,1,intronic candidate,Low
+chr12,103311362,GCCCCCCTTA,GCCCCCTTA,PAH,MODIFIER,intron_variant,ENST00000551337.1:c.-95-360del,,,,,,,1,intronic candidate,Low
+chr12,103311405,ATTTTTGTT,ATTTTGTT,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000546708.1:n.493-403del,,,,,,,1,intronic candidate,Low
+chr12,103311405,ATTTTTGTT,ATTTTGTT,PAH,MODIFIER,intron_variant,ENST00000546844.1:c.-95-403del,,,,,,,1,intronic candidate,Low
+chr12,103311405,ATTTTTGTT,ATTTTGTT,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000547319.1:n.217-403del,,,,,,,1,intronic candidate,Low
+chr12,103311405,ATTTTTGTT,ATTTTGTT,PAH,MODIFIER,intron_variant,ENST00000551337.1:c.-95-403del,,,,,,,1,intronic candidate,Low
+chr12,103232956,CTTTATT,CTTATT,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103232956,CTTTATT,CTTATT,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103233004,GAAAAACAC,GAAAACAC,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103233004,GAAAAACAC,GAAAACAC,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103233016,CAAAATGGGCCA,"CAAATGGGCCA,CAAAATGGGGCCA",PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103233016,CAAAATGGGCCA,"CAAATGGGCCA,CAAAATGGGGCCA",PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103233016,CAAAATGGGCCA,"CAAATGGGCCA,CAAAATGGGGCCA",PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103233016,CAAAATGGGCCA,"CAAATGGGCCA,CAAAATGGGGCCA",PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103234153,GCCTCG,GCTCG,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103234153,GCCTCG,GCTCG,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103234192,GCCAAAATC,"GCAAAATC,GCCAAATC",PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103234192,GCCAAAATC,"GCAAAATC,GCCAAATC",PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103234192,GCCAAAATC,"GCAAAATC,GCCAAATC",PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103234192,GCCAAAATC,"GCAAAATC,GCCAAATC",PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103234237,TGGGTGT,TGGTGT,PAH,MODIFIER,downstream_gene_variant,,,CM043046,,,,,0,,Low
+chr12,103234237,TGGGTGT,TGGTGT,PAH,MODIFIER,downstream_gene_variant,,,CM043046,,,,,0,,Low
+chr12,103234265,AGGGCCG,AGGCCG,PAH,MODIFIER,downstream_gene_variant,,,COSV61018455,,,,,0,,Low
+chr12,103234265,AGGGCCG,AGGCCG,PAH,MODIFIER,downstream_gene_variant,,,COSV61018455,,,,,0,,Low
+chr12,103234286,CAAAGT,CAAGT,PAH,MODIFIER,downstream_gene_variant,,,CM030921&CM112744,,,,,0,,Low
+chr12,103234286,CAAAGT,CAAGT,PAH,MODIFIER,downstream_gene_variant,,,CM030921&CM112744,,,,,0,,Low
+chr12,103237428,CTTTCTC,CTTCTC,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.953del,,,,,,,0,,Low
+chr12,103237428,CTTTCTC,CTTCTC,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103237495,ATTTTGGA,ATTTGGA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.886del,,CM115175,,,,,0,,Low
+chr12,103237495,ATTTTGGA,ATTTGGA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551114.1:n.789del,,CM115175,,,,,0,,Low
+chr12,103238125,CAAAGGA,CAAGGA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.812del,,,,,,,0,,Low
+chr12,103238125,CAAAGGA,CAAGGA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551114.1:n.715del,,,,,,,0,,Low
+chr12,103238140,GCCCAG,GCCAG,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.797del,,CM056675&CM991000,,,,,0,,Low
+chr12,103238140,GCCCAG,GCCAG,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551114.1:n.700del,,CM056675&CM991000,,,,,0,,Low
+chr12,103238154,GCCTT,GCTT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.783del,,rs63581460,pathogenic,,,,0,,Low
+chr12,103238154,GCCTT,GCTT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551114.1:n.686del,,rs63581460,pathogenic,,,,0,,Low
+chr12,103240682,CTTTTCA,CTTTCA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.718del,,,,,,,0,,Low
+chr12,103240682,CTTTTCA,CTTTCA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551114.1:n.621del,,,,,,,0,,Low
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103245500,AGGGCA,AGGCA,PAH,MODIFIER,downstream_gene_variant,,,CM1511444,,,,,0,,Low
+chr12,103245500,AGGGCA,AGGCA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.635del,,CM1511444,,,,,0,,Low
+chr12,103245500,AGGGCA,AGGCA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551114.1:n.538del,,CM1511444,,,,,0,,Low
+chr12,103245500,AGGGCA,AGGCA,PAH,MODIFIER,downstream_gene_variant,,,CM1511444,,,,,0,,Low
+chr12,103245564,AGGGGAGG,AGGGAGG,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103245564,AGGGGAGG,AGGGAGG,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551114.1:n.474del,,,,,,,0,,Low
+chr12,103245564,AGGGGAGG,AGGGAGG,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103246609,TGGGCT,TGGGGCT,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103246609,TGGGCT,TGGGGCT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.584dup,,,,,,,0,,Low
+chr12,103246609,TGGGCT,TGGGGCT,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103246609,TGGGCT,TGGGGCT,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103246657,AGGCC,AGCC,PAH,MODIFIER,downstream_gene_variant,,,CM910286,,,,,0,,Low
+chr12,103246657,AGGCC,AGCC,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.536del,,CM910286,,,,,0,,Low
+chr12,103246657,AGGCC,AGCC,PAH,MODIFIER,upstream_gene_variant,,,CM910286,,,,,0,,Low
+chr12,103246657,AGGCC,AGCC,PAH,MODIFIER,downstream_gene_variant,,,CM910286,,,,,0,,Low
+chr12,103246664,GCCACC,GCACC,PAH,MODIFIER,downstream_gene_variant,,,CM010967&CM010968,,,,,0,,Low
+chr12,103246664,GCCACC,GCACC,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.529del,,CM010967&CM010968,,,,,0,,Low
+chr12,103246664,GCCACC,GCACC,PAH,MODIFIER,upstream_gene_variant,,,CM010967&CM010968,,,,,0,,Low
+chr12,103246664,GCCACC,GCACC,PAH,MODIFIER,downstream_gene_variant,,,CM010967&CM010968,,,,,0,,Low
+chr12,103246673,GAAATC,GAATC,PAH,MODIFIER,downstream_gene_variant,,,COSV61015347,,,,,0,,Low
+chr12,103246673,GAAATC,GAATC,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.520del,,COSV61015347,,,,,0,,Low
+chr12,103246673,GAAATC,GAATC,PAH,MODIFIER,upstream_gene_variant,,,COSV61015347,,,,,0,,Low
+chr12,103246673,GAAATC,GAATC,PAH,MODIFIER,downstream_gene_variant,,,COSV61015347,,,,,0,,Low
+chr12,103246736,GAAAAGAA,GAAAGAA,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103246736,GAAAAGAA,GAAAGAA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549247.1:n.457del,,,,,,,0,,Low
+chr12,103246736,GAAAAGAA,GAAAGAA,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103246736,GAAAAGAA,GAAAGAA,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.819del,,,,,,,0,,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.818_819del,,,,,,,0,,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103248905,TGGAC,TGAC,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.810del,,,,,,,0,,Low
+chr12,103248905,TGGAC,TGAC,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103248905,TGGAC,TGAC,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103248905,TGGAC,TGAC,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103248975,CTTTTCA,CTTTCA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.740del,,,,,,,0,,Low
+chr12,103248975,CTTTTCA,CTTTCA,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103248975,CTTTTCA,CTTTCA,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103248975,CTTTTCA,CTTTCA,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103248989,GAAAAATG,GAAAATG,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.726del,,,,,,,0,,Low
+chr12,103248989,GAAAAATG,GAAAATG,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103248989,GAAAAATG,GAAAATG,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103248989,GAAAAATG,GAAAATG,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103249021,GTTTTATA,GTTTATA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.694del,,COSV61020947,,,,,0,,Low
+chr12,103249021,GTTTTATA,GTTTATA,PAH,MODIFIER,upstream_gene_variant,,,COSV61020947,,,,,0,,Low
+chr12,103249021,GTTTTATA,GTTTATA,PAH,MODIFIER,upstream_gene_variant,,,COSV61020947,,,,,0,,Low
+chr12,103249021,GTTTTATA,GTTTATA,PAH,MODIFIER,downstream_gene_variant,,,COSV61020947,,,,,0,,Low
+chr12,103249056,GCCCCAT,GCCCAT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.659del,,CM086622&COSV100187611,,,,,0,,Low
+chr12,103249056,GCCCCAT,GCCCAT,PAH,MODIFIER,upstream_gene_variant,,,CM086622&COSV100187611,,,,,0,,Low
+chr12,103249056,GCCCCAT,GCCCAT,PAH,MODIFIER,upstream_gene_variant,,,CM086622&COSV100187611,,,,,0,,Low
+chr12,103249056,GCCCCAT,GCCCAT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551988.1:n.584del,,CM086622&COSV100187611,,,,,0,,Low
+chr12,103249078,TCCAT,TCAT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.637del,,,,,,,0,,Low
+chr12,103249078,TCCAT,TCAT,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103249078,TCCAT,TCAT,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103249078,TCCAT,TCAT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551988.1:n.562del,,,,,,,0,,Low
+chr12,103249100,TGGGCT,TGGCT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.615del,,CM920546,,,,,0,,Low
+chr12,103249100,TGGGCT,TGGCT,PAH,MODIFIER,upstream_gene_variant,,,CM920546,,,,,0,,Low
+chr12,103249100,TGGGCT,TGGCT,PAH,MODIFIER,upstream_gene_variant,,,CM920546,,,,,0,,Low
+chr12,103249100,TGGGCT,TGGCT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551988.1:n.540del,,CM920546,,,,,0,,Low
+chr12,103271240,AGGGTGG,AGGTGG,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.536del,,,,,,,0,,Low
+chr12,103271240,AGGGTGG,AGGTGG,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000550978.1:n.424del,,,,,,,0,,Low
+chr12,103271240,AGGGTGG,AGGTGG,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103271240,AGGGTGG,AGGTGG,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551988.1:n.529del,,,,,,,0,,Low
+chr12,103288492,CAAAATTC,CAAATTC,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103288492,CAAAATTC,CAAATTC,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103288616,CAAATG,CAATG,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000548677.1:n.335del,,,,,,,0,,Low
+chr12,103288616,CAAATG,CAATG,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000548928.1:n.170del,,,,,,,0,,Low
+chr12,103288616,CAAATG,CAATG,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.344del,,,,,,,0,,Low
+chr12,103288616,CAAATG,CAATG,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000550978.1:n.232del,,,,,,,0,,Low
+chr12,103288616,CAAATG,CAATG,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551988.1:n.337del,,,,,,,0,,Low
+chr12,103288625,GAAAAATTC,GAAAATTC,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000548677.1:n.326del,,CD113434,,,,,0,,Low
+chr12,103288625,GAAAAATTC,GAAAATTC,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000548928.1:n.161del,,CD113434,,,,,0,,Low
+chr12,103288625,GAAAAATTC,GAAAATTC,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.335del,,CD113434,,,,,0,,Low
+chr12,103288625,GAAAAATTC,GAAAATTC,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000550978.1:n.223del,,CD113434,,,,,0,,Low
+chr12,103288625,GAAAAATTC,GAAAATTC,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551988.1:n.328del,,CD113434,,,,,0,,Low
+chr12,103306641,ATTTTGA,ATTTGA,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103306641,ATTTTGA,ATTTGA,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103306641,ATTTTGA,ATTTGA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000548677.1:n.182del,,,,,,,0,,Low
+chr12,103306641,ATTTTGA,ATTTGA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000548928.1:n.17del,,,,,,,0,,Low
+chr12,103306641,ATTTTGA,ATTTGA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.191del,,,,,,,0,,Low
+chr12,103306641,ATTTTGA,ATTTGA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000550978.1:n.79del,,,,,,,0,,Low
+chr12,103306641,ATTTTGA,ATTTGA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551988.1:n.184del,,,,,,,0,,Low
+chr12,103310854,CAAAGT,CAAGT,PAH,MODIFIER,5_prime_UTR_variant,ENST00000307000.2:c.-94del,,,,,,,0,,Low
+chr12,103310854,CAAAGT,CAAGT,PAH,MODIFIER,downstream_gene_variant,,,,,,,,0,,Low
+chr12,103310854,CAAAGT,CAAGT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000547319.1:n.365del,,,,,,,0,,Low
+chr12,103310854,CAAAGT,CAAGT,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103310854,CAAAGT,CAAGT,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103310854,CAAAGT,CAAGT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.150del,,,,,,,0,,Low
+chr12,103310854,CAAAGT,CAAGT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000550978.1:n.38del,,,,,,,0,,Low
+chr12,103310854,CAAAGT,CAAGT,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551988.1:n.143del,,,,,,,0,,Low
+chr12,103310895,ACCGCA,ACGCA,PAH,MODIFIER,5_prime_UTR_variant,ENST00000307000.2:c.-135del,,rs1592991243&COSV100187889,pathogenic,,,,0,,Low
+chr12,103310895,ACCGCA,ACGCA,PAH,MODIFIER,downstream_gene_variant,,,rs1592991243&COSV100187889,pathogenic,,,,0,,Low
+chr12,103310895,ACCGCA,ACGCA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000547319.1:n.324del,,rs1592991243&COSV100187889,pathogenic,,,,0,,Low
+chr12,103310895,ACCGCA,ACGCA,PAH,MODIFIER,upstream_gene_variant,,,rs1592991243&COSV100187889,pathogenic,,,,0,,Low
+chr12,103310895,ACCGCA,ACGCA,PAH,MODIFIER,upstream_gene_variant,,,rs1592991243&COSV100187889,pathogenic,,,,0,,Low
+chr12,103310895,ACCGCA,ACGCA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000549111.1:n.109del,,rs1592991243&COSV100187889,pathogenic,,,,0,,Low
+chr12,103310895,ACCGCA,ACGCA,PAH,MODIFIER,upstream_gene_variant,,,rs1592991243&COSV100187889,pathogenic,,,,0,,Low
+chr12,103310895,ACCGCA,ACGCA,PAH,MODIFIER,non_coding_transcript_exon_variant,ENST00000551988.1:n.102del,,rs1592991243&COSV100187889,pathogenic,,,,0,,Low
+chr12,103311006,AGGGAGG,AGGAGG,PAH,MODIFIER,5_prime_UTR_variant,ENST00000307000.2:c.-246del,,,,,,,0,,Low
+chr12,103311006,AGGGAGG,AGGAGG,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311006,AGGGAGG,AGGAGG,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311006,AGGGAGG,AGGAGG,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311006,AGGGAGG,AGGAGG,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311006,AGGGAGG,AGGAGG,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311006,AGGGAGG,AGGAGG,PAH,MODIFIER,5_prime_UTR_variant,ENST00000553106.1:c.-99del,,,,,,,0,,Low
+chr12,103311025,CAAAGGG,CAAGGG,PAH,MODIFIER,5_prime_UTR_variant,ENST00000307000.2:c.-265del,,,,,,,0,,Low
+chr12,103311025,CAAAGGG,CAAGGG,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311025,CAAAGGG,CAAGGG,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311025,CAAAGGG,CAAGGG,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311025,CAAAGGG,CAAGGG,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311025,CAAAGGG,CAAGGG,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311025,CAAAGGG,CAAGGG,PAH,MODIFIER,5_prime_UTR_variant,ENST00000553106.1:c.-118del,,,,,,,0,,Low
+chr12,103311362,GCCCCCCTTA,GCCCCCTTA,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311362,GCCCCCCTTA,GCCCCCTTA,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311362,GCCCCCCTTA,GCCCCCTTA,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311362,GCCCCCCTTA,GCCCCCTTA,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311362,GCCCCCCTTA,GCCCCCTTA,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311362,GCCCCCCTTA,GCCCCCTTA,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311362,GCCCCCCTTA,GCCCCCTTA,PAH,MODIFIER,5_prime_UTR_variant,ENST00000553106.1:c.-455del,,,,,,,0,,Low
+chr12,103311405,ATTTTTGTT,ATTTTGTT,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311405,ATTTTTGTT,ATTTTGTT,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311405,ATTTTTGTT,ATTTTGTT,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311405,ATTTTTGTT,ATTTTGTT,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311405,ATTTTTGTT,ATTTTGTT,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311405,ATTTTTGTT,ATTTTGTT,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103311405,ATTTTTGTT,ATTTTGTT,PAH,MODIFIER,upstream_gene_variant,,,,,,,,0,,Low
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,intron_variant,ENST00000307000.2:c.897+18_897+19insT,,rs922639027,Benign,Phenylketonuria,criteria_provided&_single_submitter,NC_000012.11:g.103245452dup,-2,ClinVar benign; intronic candidate,Low
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000549247.1:n.671+18_671+19insT,,rs922639027,Benign,Phenylketonuria,criteria_provided&_single_submitter,NC_000012.11:g.103245452dup,-2,ClinVar benign; intronic candidate,Low
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000551114.1:n.574+18_574+19insT,,rs922639027,Benign,Phenylketonuria,criteria_provided&_single_submitter,NC_000012.11:g.103245452dup,-2,ClinVar benign; intronic candidate,Low
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,intron_variant,ENST00000553106.1:c.912+18_912+19insT,,rs922639027,Benign,Phenylketonuria,criteria_provided&_single_submitter,NC_000012.11:g.103245452dup,-2,ClinVar benign; intronic candidate,Low
+chr12,103271350,G,A,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.338-22C>T,,rs2037639,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103271350G>A,-2,ClinVar benign; intronic candidate,Low
+chr12,103271350,G,A,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000549111.1:n.449-22C>T,,rs2037639,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103271350G>A,-2,ClinVar benign; intronic candidate,Low
+chr12,103271350,G,A,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000550978.1:n.337-22C>T,,rs2037639,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103271350G>A,-2,ClinVar benign; intronic candidate,Low
+chr12,103271350,G,A,PAH,MODIFIER,intron_variant,ENST00000551337.1:c.353-22C>T,,rs2037639,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103271350G>A,-2,ClinVar benign; intronic candidate,Low
+chr12,103271350,G,A,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000551988.1:n.442-22C>T,,rs2037639,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103271350G>A,-2,ClinVar benign; intronic candidate,Low
+chr12,103271350,G,A,PAH,MODIFIER,intron_variant,ENST00000553106.1:c.353-22C>T,,rs2037639,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103271350G>A,-2,ClinVar benign; intronic candidate,Low
+chr12,103306550,A,G,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.153+19T>C,,rs17842947&CS135060&COSV61016895,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103306550A>G,-2,ClinVar benign; intronic candidate,Low
+chr12,103306550,A,G,PAH,MODIFIER,intron_variant,ENST00000546844.1:c.168+19T>C,,rs17842947&CS135060&COSV61016895,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103306550A>G,-2,ClinVar benign; intronic candidate,Low
+chr12,103306550,A,G,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000548677.1:n.255+19T>C,,rs17842947&CS135060&COSV61016895,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103306550A>G,-2,ClinVar benign; intronic candidate,Low
+chr12,103306550,A,G,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000548928.1:n.90+19T>C,,rs17842947&CS135060&COSV61016895,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103306550A>G,-2,ClinVar benign; intronic candidate,Low
+chr12,103306550,A,G,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000549111.1:n.264+19T>C,,rs17842947&CS135060&COSV61016895,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103306550A>G,-2,ClinVar benign; intronic candidate,Low
+chr12,103306550,A,G,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000550978.1:n.152+19T>C,,rs17842947&CS135060&COSV61016895,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103306550A>G,-2,ClinVar benign; intronic candidate,Low
+chr12,103306550,A,G,PAH,MODIFIER,intron_variant,ENST00000551337.1:c.168+19T>C,,rs17842947&CS135060&COSV61016895,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103306550A>G,-2,ClinVar benign; intronic candidate,Low
+chr12,103306550,A,G,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000551988.1:n.257+19T>C,,rs17842947&CS135060&COSV61016895,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103306550A>G,-2,ClinVar benign; intronic candidate,Low
+chr12,103306550,A,G,PAH,MODIFIER,intron_variant,ENST00000553106.1:c.168+19T>C,,rs17842947&CS135060&COSV61016895,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103306550A>G,-2,ClinVar benign; intronic candidate,Low
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,downstream_gene_variant,,,rs922639027,Benign,Phenylketonuria,criteria_provided&_single_submitter,NC_000012.11:g.103245452dup,-3,ClinVar benign,Low
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,downstream_gene_variant,,,rs922639027,Benign,Phenylketonuria,criteria_provided&_single_submitter,NC_000012.11:g.103245452dup,-3,ClinVar benign,Low
+chr12,103306550,A,G,PAH,MODIFIER,downstream_gene_variant,,,rs17842947&CS135060&COSV61016895,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103306550A>G,-3,ClinVar benign,Low
+chr12,103306550,A,G,PAH,MODIFIER,downstream_gene_variant,,,rs17842947&CS135060&COSV61016895,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103306550A>G,-3,ClinVar benign,Low

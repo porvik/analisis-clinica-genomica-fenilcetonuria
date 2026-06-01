@@ -1,0 +1,17 @@
+[project]
+name = "clinical-genomics-jupyter-book"
+version = "0.1.0"
+description = "Jupyter Book 2 project for clinical genomics analysis"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter-book>=2.0.0",
+    "jupyterlab",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "biopython",
+    "jupyter>=1.1.1",
+    "openpyxl>=3.1.5",
+    "tabulate>=0.10.0",
+    "mystmd>=1.9.1",
+]

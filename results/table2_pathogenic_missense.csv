@@ -1,0 +1,7 @@
+Caller,CHROM,POS,REF,ALT,IMPACT,Consequence,HGVSc,HGVSp,ClinVar_CLNSIG,ClinVar_CLNDN,Final_score,Final_priority
+VarScan,chr12,103234192,G,T,MODERATE,missense_variant,ENST00000307000.2:c.1286C>A,ENSP00000303500.2:p.Ala429Asp,Pathogenic,not_provided&Phenylketonuria,10,High
+VarScan,chr12,103234255,C,G,MODERATE,missense_variant,ENST00000307000.2:c.1223G>C,ENSP00000303500.2:p.Arg408Pro,Pathogenic,not_provided&Phenylketonuria,10,High
+VarScan,chr12,103249009,T,C,MODERATE,missense_variant,ENST00000307000.2:c.596A>G,ENSP00000303500.2:p.Tyr199Cys,Pathogenic,not_provided&Phenylketonuria,10,High
+VarScan,chr12,103260401,A,G,MODERATE,missense_variant,ENST00000307000.2:c.467T>C,ENSP00000303500.2:p.Phe156Ser,Pathogenic,not_provided&Phenylketonuria,10,High
+VarScan,chr12,103238134,A,C,MODERATE,missense_variant,ENST00000307000.2:c.1030T>G,ENSP00000303500.2:p.Ser344Ala,Pathogenic/Likely_pathogenic,not_provided&Phenylketonuria,9,High
+VarScan,chr12,103246707,C,T,MODERATE,missense_variant,ENST00000307000.2:c.713G>A,ENSP00000303500.2:p.Arg238Gln,Pathogenic/Likely_pathogenic,PAH-related_disorder&Inborn_genetic_diseases&not_provided&Phenylketonuria,9,High

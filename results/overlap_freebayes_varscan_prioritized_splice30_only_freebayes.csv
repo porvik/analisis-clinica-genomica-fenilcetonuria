@@ -1,0 +1,5 @@
+CHROM,POS,REF,ALT,In_FreeBayes,In_VarScan,SYMBOLS_FreeBayes,SYMBOLS_VarScan,IMPACTS_FreeBayes,IMPACTS_VarScan,CONSEQUENCES_FreeBayes,CONSEQUENCES_VarScan,HGVSc_FreeBayes,HGVSc_VarScan,HGVSp_FreeBayes,HGVSp_VarScan,ClinVar_CLNSIG_FreeBayes,ClinVar_CLNSIG_VarScan,ClinVar_CLNDN_FreeBayes,ClinVar_CLNDN_VarScan,ClinVar_CLNREVSTAT_FreeBayes,ClinVar_CLNREVSTAT_VarScan,Existing_variation_FreeBayes,Existing_variation_VarScan
+chr12,103237428,CTTTCTC,CTTCTC,Yes,No,,,,,,,,,,,,,,,,,,
+chr12,103245500,AGGGCA,AGGCA,Yes,No,,,,,,,,,,,,,,,,,,
+chr12,103246657,AGGCC,AGCC,Yes,No,,,,,,,,,,,,,,,,,,
+chr12,103311006,AGGGAGG,AGGAGG,Yes,No,,,,,,,,,,,,,,,,,,

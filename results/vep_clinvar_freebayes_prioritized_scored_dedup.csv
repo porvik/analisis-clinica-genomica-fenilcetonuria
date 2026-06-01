@@ -1,0 +1,51 @@
+CHROM,POS,REF,ALT,SYMBOL,IMPACT,Consequence,HGVSc,HGVSp,Existing_variation,ClinVar_CLNSIG,ClinVar_CLNDN,ClinVar_CLNREVSTAT,ClinVar_CLNHGVS,Final_score,Final_priority_reasons,Final_priority
+chr12,103232956,CTTTATT,CTTATT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1340del,ENSP00000303500.2:p.Lys447SerfsTer33,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103233004,GAAAAACAC,GAAAACAC,PAH,LOW,splice_polypyrimidine_tract_variant&intron_variant,ENST00000307000.2:c.1301-9del,,,,,,,2,LOW impact; intronic candidate,Low
+chr12,103233016,CAAAATGGGCCA,"CAAATGGGCCA,CAAAATGGGGCCA",PAH,MODIFIER,intron_variant,ENST00000307000.2:c.1301-21del,,,,,,,1,intronic candidate,Low
+chr12,103234153,GCCTCG,GCTCG,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.1300+24del,,,,,,,1,intronic candidate,Low
+chr12,103234192,GCCAAAATC,"GCAAAATC,GCCAAATC",PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1285del,ENSP00000303500.2:p.Ala429LeufsTer18,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234237,TGGGTGT,TGGTGT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1240del,ENSP00000303500.2:p.Gln414LysfsTer33,CM043046,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234255,C,G,PAH,MODERATE,missense_variant,ENST00000307000.2:c.1223G>C,ENSP00000303500.2:p.Arg408Pro,rs79931499&CM920563&COSV61015579,Pathogenic,not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103234255C>G,10,ClinVar pathogenic; MODERATE impact; missense,High
+chr12,103234265,AGGGCCG,AGGCCG,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1212del,ENSP00000303500.2:p.Phe405SerfsTer42,COSV61018455,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103234286,CAAAGT,CAAGT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1191del,ENSP00000303500.2:p.Phe397LeufsTer50,CM030921&CM112744,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103237428,CTTTCTC,CTTCTC,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1179del,ENSP00000303500.2:p.Val394Ter,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103237495,ATTTTGGA,ATTTGGA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1112del,ENSP00000303500.2:p.Asn371IlefsTer24,CM115175,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103237573,GAAAAGT,GAAAGT,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.1051-17del,,,,,,,1,intronic candidate,Low
+chr12,103238103,GAAGG,GAGG,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.1050+10del,,,,,,,1,intronic candidate,Low
+chr12,103238125,CAAAGGA,CAAGGA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1038del,ENSP00000303500.2:p.Phe346LeufsTer49,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103238140,GCCCAG,GCCAG,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1023del,ENSP00000303500.2:p.Leu342SerfsTer53,CM056675&CM991000,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103238154,GCCTT,GCTT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.1009del,ENSP00000303500.2:p.Ala337HisfsTer58,rs63581460,pathogenic,,,,8,HIGH impact; severe functional consequence,High
+chr12,103238218,GAAAGT,GAAGT,PAH,LOW,splice_polypyrimidine_tract_variant&intron_variant,ENST00000307000.2:c.955-10del,,,,,,,2,LOW impact; intronic candidate,Low
+chr12,103240648,CCACCCAG,"CACCAG,CCACCAG",PAH,MODIFIER,intron_variant,ENST00000307000.2:c.954+22_954+24delinsT,,,,,,,1,intronic candidate,Low
+chr12,103240682,CTTTTCA,CTTTCA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.944del,ENSP00000303500.2:p.Lys315SerfsTer21,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103245446,TAAAAAATC,"TAAAAATC,TAAAAAAATC",PAH,MODIFIER,intron_variant,ENST00000307000.2:c.897+18del,,,,,,,1,intronic candidate,Low
+chr12,103245500,AGGGCA,AGGCA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.861del,ENSP00000303500.2:p.Leu288CysfsTer48,CM1511444,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103245564,AGGGGAGG,AGGGAGG,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.828-31del,,,,,,,1,intronic candidate,Low
+chr12,103246609,TGGGCT,TGGGGCT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.810dup,ENSP00000303500.2:p.Met271HisfsTer7,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103246657,AGGCC,AGCC,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.762del,ENSP00000303500.2:p.Phe255SerfsTer81,CM910286,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103246664,GCCACC,GCACC,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.755del,ENSP00000303500.2:p.Gly252AlafsTer84,CM010967&CM010968,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103246673,GAAATC,GAATC,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.746del,ENSP00000303500.2:p.Phe249SerfsTer87,COSV61015347,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103246707,C,T,PAH,MODERATE,missense_variant,ENST00000307000.2:c.713G>A,ENSP00000303500.2:p.Arg238Gln,rs62508588&CM910283&CM993955,Pathogenic/Likely_pathogenic,PAH-related_disorder&Inborn_genetic_diseases&not_provided&Phenylketonuria,criteria_provided&_multiple_submitters&_no_conflicts,NC_000012.11:g.103246707C>T,9,ClinVar likely pathogenic; MODERATE impact; missense,High
+chr12,103246736,GAAAAGAA,GAAAGAA,PAH,LOW,splice_polypyrimidine_tract_variant&intron_variant,ENST00000307000.2:c.692-9del,,,,,,,2,LOW impact; intronic candidate,Low
+chr12,103248896,ACCCTG,"ACCTG,ACTG",PAH,MODIFIER,intron_variant,ENST00000307000.2:c.691+17del,,,,,,,1,intronic candidate,Low
+chr12,103248905,TGGAC,TGAC,PAH,LOW,splice_region_variant&intron_variant,ENST00000307000.2:c.691+8del,,,,,,,4,LOW impact; splice region; intronic candidate,Medium
+chr12,103248975,CTTTTCA,CTTTCA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.629del,ENSP00000303500.2:p.Lys210SerfsTer126,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103248989,GAAAAATG,GAAAATG,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.615del,ENSP00000303500.2:p.Pro206HisfsTer130,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103249021,GTTTTATA,GTTTATA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.583del,ENSP00000303500.2:p.Thr195ProfsTer141,COSV61020947,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103249056,GCCCCAT,GCCCAT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.548del,ENSP00000303500.2:p.Gly183AlafsTer7,CM086622&COSV100187611,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103249078,TCCAT,TCAT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.526del,ENSP00000303500.2:p.Glu176ArgfsTer14,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103249100,TGGGCT,TGGCT,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.504del,ENSP00000303500.2:p.Ile169SerfsTer21,CM920546,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103260463,ATTTTTCA,ATTTTCA,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.427-23del,,COSV100188393,,,,,1,intronic candidate,Low
+chr12,103271240,AGGGTGG,AGGTGG,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.425del,ENSP00000303500.2:p.Pro142LeufsTer48,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103271350,G,A,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.338-22C>T,,rs2037639,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103271350G>A,-2,ClinVar benign; intronic candidate,Low
+chr12,103288492,CAAAATTC,CAAATTC,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.337+20del,,,,,,,1,intronic candidate,Low
+chr12,103288616,CAAATG,CAATG,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.233del,ENSP00000303500.2:p.Leu78TrpfsTer9,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103288625,GAAAAATTC,GAAAATTC,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.224del,ENSP00000303500.2:p.Phe75SerfsTer12,CD113434,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103306550,A,G,PAH,MODIFIER,intron_variant,ENST00000307000.2:c.153+19T>C,,rs17842947&CS135060&COSV61016895,Benign,not_specified&not_provided&Phenylketonuria,reviewed_by_expert_panel,NC_000012.11:g.103306550A>G,-2,ClinVar benign; intronic candidate,Low
+chr12,103306641,ATTTTGA,ATTTGA,PAH,HIGH,frameshift_variant,ENST00000307000.2:c.80del,ENSP00000303500.2:p.Asn27MetfsTer6,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103310854,CAAAGT,CAAGT,PAH,HIGH,frameshift_variant,ENST00000546844.1:c.54del,ENSP00000446658.1:p.Phe18LeufsTer20,,,,,,8,HIGH impact; severe functional consequence,High
+chr12,103310895,ACCGCA,ACGCA,PAH,HIGH,frameshift_variant,ENST00000546844.1:c.13del,ENSP00000446658.1:p.Val5SerfsTer33,rs1592991243&COSV100187889,pathogenic,,,,8,HIGH impact; severe functional consequence,High
+chr12,103311006,AGGGAGG,AGGAGG,PAH,LOW,splice_region_variant&splice_polypyrimidine_tract_variant&intron_variant&non_coding_transcript_variant,ENST00000546708.1:n.493-4del,,,,,,,4,LOW impact; splice region; intronic candidate,Medium
+chr12,103311025,CAAAGGG,CAAGGG,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000546708.1:n.493-23del,,,,,,,1,intronic candidate,Low
+chr12,103311362,GCCCCCCTTA,GCCCCCTTA,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000546708.1:n.493-360del,,,,,,,1,intronic candidate,Low
+chr12,103311405,ATTTTTGTT,ATTTTGTT,PAH,MODIFIER,intron_variant&non_coding_transcript_variant,ENST00000546708.1:n.493-403del,,,,,,,1,intronic candidate,Low

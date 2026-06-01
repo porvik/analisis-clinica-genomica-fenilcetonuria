@@ -1,0 +1,16 @@
+WARNING: line 389 skipped (chrUn_gl000220 82451 . CAAAAAAAAAGAAAGAAAATGAG...): Chromosome chrUn_gl000220 not found in annotation sources or synonyms; chromosome chrUn_gl000220 does not overlap any features
+WARNING: line 390 skipped (chrUn_gl000228 27602 . C A 163.481 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 391 skipped (chrUn_gl000228 27603 . C T 240.161 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 392 skipped (chrUn_gl000228 27611 . C T 192.696 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 393 skipped (chrUn_gl000228 27621 . G T 256.075 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 394 skipped (chrUn_gl000228 27630 . G A 164.444 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 395 skipped (chrUn_gl000228 27639 . G A 215.117 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 396 skipped (chrUn_gl000228 27662 . CGGCC TGGCT 209.45 . AB...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 397 skipped (chrUn_gl000228 27676 . C T 67.8857 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 398 skipped (chrUn_gl000228 27677 . G A 129.022 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 399 skipped (chrUn_gl000228 27696 . G A 172.682 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 400 skipped (chrUn_gl000228 27704 . CGGGCT CGGCT 233.18 . A...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 401 skipped (chrUn_gl000228 27719 . C T 167.432 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 402 skipped (chrUn_gl000228 27723 . G T 248.113 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 403 skipped (chrUn_gl000228 27734 . C A 245.678 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features
+WARNING: line 404 skipped (chrUn_gl000228 27740 . G T 260.481 . AB=0;ABP=...): Chromosome chrUn_gl000228 not found in annotation sources or synonyms; chromosome chrUn_gl000228 does not overlap any features

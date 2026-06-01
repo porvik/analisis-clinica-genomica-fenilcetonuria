@@ -1,0 +1,13 @@
+Caller,CHROM,POS,REF,ALT,IMPACT,Consequence,HGVSc,HGVSp,ClinVar_CLNSIG,ClinVar_CLNDN,Final_score,Final_priority
+VarScan,chr12,103237555,G,T,HIGH,stop_gained&splice_region_variant,ENST00000307000.2:c.1053C>A,ENSP00000303500.2:p.Tyr351Ter,Pathogenic,not_provided&Phenylketonuria,15,High
+VarScan,chr12,103271240,AG,A,HIGH,frameshift_variant&splice_region_variant,ENST00000307000.2:c.425del,ENSP00000303500.2:p.Pro142LeufsTer48,Likely_pathogenic,Phenylketonuria,14,High
+VarScan,chr12,103237469,AG,A,HIGH,frameshift_variant,ENST00000307000.2:c.1138del,ENSP00000303500.2:p.Leu380SerfsTer15,Pathogenic,Phenylketonuria,13,High
+VarScan,chr12,103260442,C,T,HIGH,splice_acceptor_variant,ENST00000307000.2:c.427-1G>A,,Pathogenic,not_provided&Phenylketonuria,13,High
+VarScan,chr12,103237495,AT,A,HIGH,frameshift_variant,ENST00000307000.2:c.1112del,ENSP00000303500.2:p.Asn371IlefsTer24,Pathogenic,not_provided&Phenylketonuria,13,High
+VarScan,chr12,103237523,AG,A,HIGH,frameshift_variant,ENST00000307000.2:c.1084del,ENSP00000303500.2:p.Leu362TrpfsTer33,Pathogenic,not_provided&Phenylketonuria,13,High
+VarScan,chr12,103245469,GA,G,HIGH,frameshift_variant,ENST00000307000.2:c.892del,ENSP00000303500.2:p.Ser298ProfsTer38,Pathogenic,not_provided&Phenylketonuria,13,High
+VarScan,chr12,103238154,GC,G,HIGH,frameshift_variant,ENST00000307000.2:c.1009del,ENSP00000303500.2:p.Ala337HisfsTer58,Pathogenic,not_provided&Phenylketonuria,13,High
+VarScan,chr12,103246597,CG,C,HIGH,frameshift_variant,ENST00000307000.2:c.822del,ENSP00000303500.2:p.Glu275AsnfsTer61,Pathogenic,Phenylketonuria,13,High
+VarScan,chr12,103249056,GC,G,HIGH,frameshift_variant,ENST00000307000.2:c.548del,ENSP00000303500.2:p.Gly183AlafsTer7,Pathogenic,not_provided&Phenylketonuria,13,High
+VarScan,chr12,103260435,TA,T,HIGH,frameshift_variant,ENST00000307000.2:c.432del,ENSP00000303500.2:p.Phe144LeufsTer46,Pathogenic,Phenylketonuria,13,High
+VarScan,chr12,103310895,AC,A,HIGH,frameshift_variant,ENST00000546844.1:c.13del,ENSP00000446658.1:p.Val5SerfsTer33,Pathogenic,Phenylketonuria,13,High

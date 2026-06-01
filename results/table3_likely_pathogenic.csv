@@ -1,0 +1,5 @@
+Caller,CHROM,POS,REF,ALT,IMPACT,Consequence,HGVSc,HGVSp,ClinVar_CLNSIG,ClinVar_CLNDN,Final_score,Final_priority
+VarScan,chr12,103271240,AG,A,HIGH,frameshift_variant&splice_region_variant,ENST00000307000.2:c.425del,ENSP00000303500.2:p.Pro142LeufsTer48,Likely_pathogenic,Phenylketonuria,14,High
+VarScan,chr12,103238134,A,C,MODERATE,missense_variant,ENST00000307000.2:c.1030T>G,ENSP00000303500.2:p.Ser344Ala,Pathogenic/Likely_pathogenic,not_provided&Phenylketonuria,9,High
+VarScan,chr12,103246707,C,T,MODERATE,missense_variant,ENST00000307000.2:c.713G>A,ENSP00000303500.2:p.Arg238Gln,Pathogenic/Likely_pathogenic,PAH-related_disorder&Inborn_genetic_diseases&not_provided&Phenylketonuria,9,High
+VarScan,chr12,103232956,C,CT,MODERATE,inframe_insertion&stop_retained_variant,ENST00000307000.2:c.1340dup,,Pathogenic/Likely_pathogenic,not_provided&Phenylketonuria,7,Medium
